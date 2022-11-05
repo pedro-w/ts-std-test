@@ -1,0 +1,14 @@
+{
+  "name": "ts-std-test",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PH",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-standard": "^12.0.1"
+  }
+}
